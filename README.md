@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Marcelo 👨‍🎓
+## Hi there, I'm Marcelo 👨‍🎓
 
 <h3 align="center">An enginer passionate with computational systems </h3>
 
@@ -10,7 +10,7 @@
 
  -🤝 I’m looking to collaborate on data science and deep learning projects. 
  
-## My interest❤️ 
+### My interest❤️ 
 
 **Autonomous car, dynamic systems, robotics**☁️
 
