@@ -4,10 +4,10 @@
 
 <h3 align="center">An enginer passionate with computational systems </h3>
 
-- I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research
-- 🔭 I’m currently working on augmented reality application using Vuforia engine and voice asistence using NLP/Dialogflow
+ I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research
+ 🔭 I’m currently working on augmented reality application using Vuforia engine and voice asistence using NLP/Dialogflow
 
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+ 🤝 I’m looking to collaborate on data science and deep learning projects. 
 ## My interest❤️ 
 
 **Autonomous car, dynamic systems, robotics**☁️
