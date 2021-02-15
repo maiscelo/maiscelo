@@ -12,7 +12,7 @@
  
 ### My interest❤️ 
 
-Autonomous car, dynamic systems, robotics
+Human computer interaction, dynamic systems, robotics
 
 science and mobile app development
 
