@@ -9,6 +9,7 @@
  -🔭 I’m currently working on augmented reality application using Vuforia engine and voice asistence using NLP/Dialogflow
 
  -🤝 I’m looking to collaborate on data science and deep learning projects. 
+ 
 ## My interest❤️ 
 
 **Autonomous car, dynamic systems, robotics**☁️
