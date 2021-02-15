@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hi there, I'm Marcelo 👨‍🎓
+## Hi there, I'm Marcelo Brilhante 👨‍🎓
 
-<h3 align="center">An enginer passionate with computational systems </h3>
+<h3 align="center">An research enginer passionate with computational systems </h3>
 
  -I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research
  
