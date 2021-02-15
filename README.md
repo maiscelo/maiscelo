@@ -1,6 +1,6 @@
-### Hi there 👋
+ Hi there, I'm Marcelo 👋
 
-<h3 align="center">A passionate machine learning enginer</h3>
+<h3 align="center">An enginer passionate with computational systems </h3>
 
 - 🔭 I’m currently working on **Augmented reality application**
 
