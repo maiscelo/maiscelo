@@ -2,7 +2,7 @@
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marcelo Brilhante 👨‍🎓
 
-<h3 align="center">An enginer passionate with computing systems </h3>
+<h3 align="center">An enginer passionate with computing systems and intellectually curious about innovative technology </h3>
 
  -🔭 I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research working on augmented reality application using Vuforia engine and voice asistence for mobile/web using NLP/Dialogflow 
 
