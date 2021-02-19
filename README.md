@@ -4,7 +4,7 @@
 
 <h3 align="center">An enginer passionate with computing systems and intellectually curious about innovative technology </h3>
 
- -🔭 I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research working on augmented reality application using Vuforia engine and voice asistence for mobile/web using NLP/Dialogflow 
+ -🔭 I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research working on augmented reality application and voice asistence for mobile/web applications.
 
  -🤝 I’m looking to collaborate on data science and deep learning projects. 
  
