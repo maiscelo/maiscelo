@@ -6,7 +6,7 @@
 
  -🔭 I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research working on augmented reality application and voice asistence for mobile/web applications.
 
- -🤝 I’m looking to collaborate on data science and deep learning projects. 
+ -🤝 I’m looking to collaborate on machine intelligence and deep learning projects. 
  
 ### My interest❤️ 
 
