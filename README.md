@@ -8,7 +8,7 @@
  
  -🔭 I'm currently working at [LEAD](http://leadfortaleza.com.br/portal) as IHC research currently working on augmented reality application for mobiles.
 
- -🤝 I’m looking to collaborate on machine intelligence and deep learning projects. 
+ -🤝 I’m looking to collaborate on machine intelligence and deep reinforcement learning projects. 
  
 ### My interest❤️ 
 
