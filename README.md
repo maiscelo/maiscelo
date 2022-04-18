@@ -5,7 +5,7 @@
 <h3 align="center">An enginer passionate with computing systems and intellectually curious about innovative technology </h3>
 
  
- -🔭 I'm currently working at [Pantha Ventures](http://leadfortaleza.com.br/portal) as AI Engineer currently working on augmented reality application for mobiles.
+ -🔭 I'm currently working at [Pantha Ventures](http://leadfortaleza.com.br/portal) as AI Engineer currently working on retail/augmented reality application for mobiles.
 
  -🤝 I’m looking to collaborate on machine intelligence and deep learning projects. 
  
